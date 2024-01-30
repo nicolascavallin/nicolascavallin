@@ -3,13 +3,12 @@
 ```Seems like I'm a developer 👨🏻‍💻```
 
 ### My tech stack
-* JavaScript (but I prefer TypeScript)
-* React
-* NextJS
+* TypeScript (Thanks JavaScript, but...)
 * React Native
-* Flutter
+* React 
+* NextJS
 * NodeJS
-* MoreThingsWithJS
+* Flutter (some rusty)
 
 ### Get the party started
 * [LinkedIn](https://linkedin.com/in/nicolascavallin)
